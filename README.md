@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abhishekmishragacr@gmail.com**
 
-- 📄 Know about my experiences [Resume]((https://drive.google.com/file/d/1zKzC0b5JVDbIrIfFYALiv_6rJliEAp1D/view?usp=share_link))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zKzC0b5JVDbIrIfFYALiv_6rJliEAp1D/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
