@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🔭 I’m currently working on [Riddle words](https://play.google.com/store/apps/details?id=com.preparation.jumble) ,[MySports11: Fantasy Prediction](https://play.google.com/store/apps/details?id=com.mysports11.app)
-
-- 🌱 I’m currently learning **Compose**
+- 🔭 I’m currently working on [Riddle words](https://play.google.com/store/apps/details?id=com.preparation.jumble), [Bounce Ball](https://play.google.com/store/apps/details?id=com.preparation.bounce) ,[MySports11: Fantasy Prediction](https://play.google.com/store/apps/details?id=com.mysports11.app)
 
 - 📫 How to reach me **abhishekmishragacr@gmail.com**
 
@@ -12,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-mishra-58a289184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-mishra-58a289184" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@abhishekmishragacr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhishekmishragacr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
